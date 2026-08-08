@@ -3,7 +3,8 @@ Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
 
-
+## NAME: TAMIZHAN B
+## REF NO: 212225230283
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
 
@@ -39,11 +40,7 @@ Test the C Program for the desired output.
 
 ##OUTPUT
 
-
-
-
-
-
+<img width="568" height="528" alt="ex02 p1" src="https://github.com/user-attachments/assets/0250bcc3-deaf-4640-9b31-9fc8696d634b" />
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -75,14 +72,7 @@ Test the C Program for the desired output.
 
 ##OUTPUT
 
-
-
-
-
-
-
-
-
+<img width="575" height="488" alt="ex02 p2" src="https://github.com/user-attachments/assets/b9a9c709-5b1d-43c0-8285-2f5bc5cdfc39" />
 
 
 
